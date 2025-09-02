@@ -1,0 +1,6 @@
+pandas
+transformers
+openpyxl
+keybert
+sentence-transformers
+torch
