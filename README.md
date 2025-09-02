@@ -9,7 +9,7 @@
 
 ## خطوات التشغيل
 1. افتح Notebook على [Google Colab](https://colab.research.google.com/).  
-2. ارفع ملف `sample_comments.csv`.  
+2. ارفع ملف `example.csv`.  
 3. شغل كل الخلايا بالترتيب.  
 4. في النهاية، سيتم إنشاء ملف Excel جديد يحتوي على التعليقات وتحليل المشاعر.
 
